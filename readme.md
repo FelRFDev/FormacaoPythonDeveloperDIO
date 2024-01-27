@@ -13,10 +13,6 @@ Este repositório contém o código desenvolvido para o Desafio de Projeto Crian
 O objetivo do projeto é criar do zero uma api capaz de ler e retornar dados em formato Json utilizando a Framework Flask, e o Ngrok para criar um link de forma que
 a nossa API fique acessível em um ambiente externo. Todo o código deve ser feito no Google Colab:
 
-<div align="center">
-<img src="https://github.com/FelRFDev/FormacaoPythonDeveloperDIO/assets/89205473/96f799be-6bd1-466d-8949-7e69ad7850bb" align="center" height="500" width="700" ></a> <br>
-
-</div>
 
 
 <h3 id="Funcionalidades">Funcionalidades</h3>
